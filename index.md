@@ -10,3 +10,4 @@ Console.WriteLine(Address);
 - [x] Agregado de nuevo archivo
 - [x] Agregado de mensaje markdown con link a encabezado e imagen
 - [x] Agregado de listas de items a resolver/resueltos
+- [ ] 
